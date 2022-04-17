@@ -2,7 +2,6 @@ package com.ead.authuser.services;
 
 import com.ead.authuser.models.UserCourseModel;
 import com.ead.authuser.models.UserModel;
-import com.fasterxml.jackson.databind.deser.std.UUIDDeserializer;
 
 import java.util.UUID;
 
