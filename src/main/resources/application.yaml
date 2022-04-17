@@ -23,7 +23,7 @@ spring:
     ansi:
       enabled: Always
   rabbitmq:
-    addresses: amqps://jdfypviq:bPV_oh5Qg2SlVUdrkHqabex-8E5dj1Ts@rat.rmq2.cloudamqp.com/jdfypviq
+    addresses: 
 
 
 logging:
